@@ -6,3 +6,9 @@ __pycache__/
 
 # Ignorar arquivos .pyc no diretório raiz e subdiretórios contendo módulos de cogs
 *.pyc
+
+# Ignorar ambientes virtuais e segredos locais
+.venv/
+venv/
+.env
+!.env.example
