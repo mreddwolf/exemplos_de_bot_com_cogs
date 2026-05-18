@@ -10,7 +10,7 @@ Seu unico objetivo é trazer formas simples de uso dos Cogs e como bonus a possi
 
 ##### Porque criei este projeto?
 
-Enquanto desenvolvia meu próprio bot discord, comecei a me debapar com uma série de dificuldades:
+Enquanto desenvolvia meu próprio bot discord, comecei a me deparar com uma série de dificuldades:
 
 >- Meu código foi ficando cada vez mais extenso.
 >- Encontrar partes especificas do código era muito demorado.
